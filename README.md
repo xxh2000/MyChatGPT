@@ -24,3 +24,4 @@
 * [**Pre-train, Prompt, and Predict A Systematic Survey of Prompting Methods in Natural Language Processing.pdf**](https://github.com/xxh2000/MyChatGPT/blob/main/pdf/Pre-train%2C%20Prompt%2C%20and%20Predict%20A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.pdf)
 
   > 摘要：ChatGPT 训练时的输入使用的是 Prompt，Prompt 是研究者们为了下游任务设计出来的一种输入形式或模板，它能够帮助预训练模型“回忆”起自己在预训练时“学习”到的东西。
+
