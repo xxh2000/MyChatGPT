@@ -16,3 +16,7 @@
 * [**Training language models to follow instructions with human feedback.pdf**](https://github.com/xxh2000/MyChatGPT/blob/main/pdf/Training%20language%20models%20to%20follow%20instructions%20with%20human%20feedback.pdf)
 
   > 摘要: 让语言模型变得更大并不意味着它们能更好地遵循用户的意图。例如，大型语言模型可以产生不真实的、有毒的或根本对用户没有帮助的输出。换句话说，这些模型没有与用户保持一致。在本文中，我们展示了一个途径，通过人类反馈的微调，在广泛的任务中使语言模型与用户的意图保持一致。从一组标签员写的提示语和通过OpenAI API提交的提示语开始，我们收集了一组标签员演示的所需模型行为的数据集，我们利用监督学习对GPT-3进行微调。然后，我们收集模型输出的排名数据集，我们利用人类反馈的强化学习来进一步微调这个监督模型。我们把产生的模型称为InstructGPT。在人类对我们的提示分布的评估中，尽管参数少了100倍，但1.3B参数的InstructGPT模型的输出比175B的GPT-3的输出更受欢迎。此外，InstructGPT模型显示了真实性的改善和有毒输出生成的减少，同时在公共NLP数据集上的性能回归最小。尽管InstructGPT仍然会犯一些简单的错误，但我们的结果表明，利用人类反馈进行微调是使语言模型与人类意图相一致的一个有希望的方向。
+
+* [**Pre-train, Prompt, and Predict A Systematic Survey of Prompting Methods in Natural Language Processing.pdf**](https://github.com/xxh2000/MyChatGPT/blob/main/pdf/Pre-train%2C%20Prompt%2C%20and%20Predict%20A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.pdf)
+
+  > 摘要：ChatGPT 训练时的输入使用的是 Prompt，Prompt 是研究者们为了下游任务设计出来的一种输入形式或模板，它能够帮助预训练模型“回忆”起自己在预训练时“学习”到的东西。
