@@ -2,6 +2,7 @@
 # 方法
 
 * [手把手教你注册ChatGPT](https://github.com/xxh2000/MyChatGPT/blob/main/%E6%95%99%E7%A8%8B/ChatGPT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.pdf)
+* [ChatGPT Plus充值教程](https://github.com/xxh2000/MyChatGPT/blob/main/%E6%95%99%E7%A8%8B/ChatGPT%20Plus%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.md)
 
 # 论文
 
