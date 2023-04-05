@@ -4,6 +4,7 @@
 * [手把手教你注册ChatGPT](https://github.com/xxh2000/MyChatGPT/blob/main/%E6%95%99%E7%A8%8B/ChatGPT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.pdf)
 * [ChatGPT Plus充值教程](https://github.com/xxh2000/MyChatGPT/blob/main/%E6%95%99%E7%A8%8B/ChatGPT%20Plus%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.md)
 * [新必应(New Bing申请教程)](https://github.com/xxh2000/MyChatGPT/blob/main/%E6%95%99%E7%A8%8B/%E6%96%B0%E5%BF%85%E5%BA%94%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B.md)
+* [ChatGPT注册免费接码平台](https://github.com/xxh2000/MyChatGPT/blob/main/%E6%95%99%E7%A8%8B/ChatGPT%20%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A0%81%E5%B9%B3%E5%8F%B0.md)
 
 
 
