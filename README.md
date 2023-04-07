@@ -8,6 +8,10 @@
 * [ChatGPT注册常见问题](https://github.com/xxh2000/MyChatGPT/blob/main/%E6%95%99%E7%A8%8B/ChatGPT%E6%B3%A8%E5%86%8C%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)
 * [ChatGPT无法注册的原因错误提示：Signup is currently unavailable, please try again later](https://www.vpsdawanjia.com/6251.html)
 
+# ChatGPT调教
+
+* [ChatGPT Prompt编写指南](https://github.com/xxh2000/MyChatGPT/blob/main/%E6%95%99%E7%A8%8B/ChatGPT%20Prompt%20%E7%BC%96%E5%86%99%E6%8C%87%E5%8D%97.md)
+
 
 
 # 论文
