@@ -1,4 +1,10 @@
 # ChatGPT
+
+# 账号购买
+
+1. 购买chatgpt官网账号请加微信 x_010101购买，并注明来意。
+2. 我们提供的账号都是纯手工注册的号，账号独享可改密码。
+
 # 方法
 
 * [手把手教你注册ChatGPT](https://github.com/xxh2000/MyChatGPT/blob/main/%E6%95%99%E7%A8%8B/ChatGPT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.pdf)
